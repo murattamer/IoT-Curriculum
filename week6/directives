@@ -1,0 +1,25 @@
+Particle photon ile IoT uygulamaları 1
+
+Kazandırılması hedeflenen yeterlilikler
+1.	Verilen bir temaya ilişkin IoT çözümü önerir.
+2.	Bir IoT sisteminin donanım ihtiyaçlarını belirler.
+3.	Bir IoT sisteminin fiziksel bağlantılarını yapar.
+
+Materyal	•	Bilgisayar
+•	Projeksiyon
+•	“web üzerinden photon cihazını kontrol etmek.ppt” sunusu
+•	“IFTTT ile particle photon kontrolü.ppt” sunusu
+Yazılım	•	IFTTT
+•	Particle Web IDE
+Malzeme	•	Particle photon
+•	Kablo ve bağlantı ekipmanları
+
+Yöntem
+Gösterim	•	Eğitmen powerpoint sunuları ile web üzerinden photon cihazına bağlı LED’i kontrol eden uygulamayı ve IFTTT ile photon kontrolü uygulamalarını gerçekleştirir.
+İşbirlikli çalışma / Uygulama	•	Öğrenciler web üzerinden photon cihazını kontrol etme ve IFTTT ile photon kontrolü uygulamalarını yaparlar.
+
+
+Değerlendirme
+Öğrenciler IFTTT platformu ve photon cihazının kullanılabileceği bir proje önerisi yazarlar.  
+
+
