@@ -1,0 +1,87 @@
+Nesnelerin İnterneti ve Bileşenlerini Tanıyalım 2 
+
+Kazandırılması hedeflenen yeterlilikler
+1.	FPP kavramını açıklar ve çeşitlerini söyler.
+2.	FPP’nin çalışma mantığını açıklar
+3.	Uygulamaya göre uygun FPP’yi seçer.
+4.	Sensör kavramını ve sensör çeşitlerini açıklar.
+5.	FPP giriş donanımlarını açıklar.
+6.	FPP çıkış donanımlarını açıklar.
+7.	FPP yazılım geliştirme ortamlarını açıklar.
+8.	Uygulamaya göre uygun giriş ve çıkış donanımlarını seçer.
+
+Materyal	•	Bilgisayar
+•	Projeksiyon
+•	“Fiziksel Programlama” power point sunusu
+•	“Sensörler” power point sunusu
+•	"Arduino IDE kurulumu" power point sunusu
+Yazılım	•	Power point
+•	Arduino IDE
+Malzeme	•	Arduino Uno
+•	Kablo ve bağlantı ekipmanları
+
+Yöntem
+Anlatım / soru cevap	•	Sunular eşliğinde eğitmen, aşağıda yer alan konuları anlatım yöntemi ile aktarır.
+1.	Fiziksel Programlama Platformu
+1.1.	Mikroişlemci Nedir?
+1.2.	Mikrodenetleyici Nedir?
+1.3.	Mikroişlemci ve Mikrodenetleyici Arasındaki Farklar
+1.4.	Gömülü Sistemler (Embedded Systems)
+1.5.	Fiziksel Programlama Kartları
+1.6.	Yüksek İşlem Kapasiteli Fiziksel Programlama Kartları
+1.7.	Az Enerji Harcayan Fiziksel Programlama Kartları
+1.8.	Farklı Kullanım Amaçlarına Göre Tasarlanmış Fiziksel Programlama Kartları
+1.9.	Arduino
+1.10.	Raspberry Pi
+1.11.	Particle Photon
+2.	Sensörler
+2.1.	Sensör Nedir?
+2.2.	Sensör Çeşitleri
+3.	Arduino IDE kurulumu
+3.1.	Arduino IDE kurulumu
+3.2.	Arduino IDE ile arduino’ya program yükleme
+3.3.	Blink uygulaması
+Gözlem / inceleme	
+  •	Eğitmen, geliştirme kartlarını ve sensörleri öğrencilere dağıtarak kartların ve sensörlerin işlevini tanıtır ve öğrencilerin incelemesini sağlar.
+Keşfetme / problem çözme	
+    •	Eğitmen öğrencilerden gerçekleştirilecek uygulamaya göre giriş/çıkış donanımlarının doğru olarak eşleştirilmesi için aşağıdaki etkinliği gerçekleştirir.
+Aşağıda bazı giriş ve çıkış donanımları karışık olarak verilmiştir. Uygulamalara uygun olarak giriş ve çıkış donanımlarını tabloya yazınız.
+1.	LM35 sıcaklık sensörü, 
+2.	Tuş takımı, 
+3.	DC motor, 
+4.	Bluetooth modülü, 
+5.	Ultrasonic mesafe sensörü, 
+6.	Fan, 
+7.	Manyetik kilit, 
+8.	Basınç sensörü, 
+9.	DHT11 (sıcaklık ve nem sensörü), 
+10.	PIR sensör, 
+11.	Manyetik kontak, 
+12.	Buzzer, 
+13.	wi-fi modülü
+Uygulamalar	Donanımlar
+	Giriş donanımları	Çıkış donanımları
+Cisimlere çarpmadan ilerleyen robot		
+Soğutma sistemi		
+Kablosuz internete bağlı meteoroloji istasyonu		
+Şifreli kapı		
+Güvenlik alarm sistemi		
+
+İşbirlikli çalışma / Uygulama	Öğrenciler 2’li gruplara ayrılır. 
+Uygulama 1
+•	Her grup bir bilgisayarda arduino IDE uygulamasını eğitmen gözetiminde kurar. 
+•	Sunuda belirtilen yönergelere uygun olarak arduino uno’ya Blink uygulamasını yükler ve test eder.
+
+Medya ve materyallerin kullanımı
+•	Etkinlik Şişli MTAL Güvenlik Sistemleri laboratuvarında gerçekleştirilir.
+•	Çalışma ortamında gerekli iş güvenliği önlemleri alınır.
+•	Atölye çalışmaları grup çalışması olarak gerçekleştirilir.
+•	Görsel sunular ve videolar projeksiyon kullanılarak aktarılır.
+
+
+Değerlendirme
+•	 “Gömülü sistem tanımlama etkinliği” uygulanır. Her öğrenciye “Gömülü sistem tanımlama” etkinliği formu dağıtılır. Öğrenciler formu doldurduktan sonra her öğrenci bir arkadaşının formunu değerlendirir.
+•	Fiziksel programlama donanımları kısa testi uygulanır.
+Cevap Anahtarı: 1-Doğru, 2-Yanlış, 3-Yanlış, 4-Doğru, 5-Servo motor,LED,ısıtıcı, 6-c, 7-a, 8-d
+
+
