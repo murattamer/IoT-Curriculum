@@ -1,0 +1,9 @@
+program kodlarýný lcdtext.ino dosyasýnda bulabilirsiniz.
+particle web IDE'de LiquidCrystal_I2C_Spark.h kütüphanesini "libraries" kýsmýndan eklemeyi unutmayýn
+IFTTT particle haberleþmesi genellikle 2dk gecikmeli olmaktadýr. 
+
+Bu uygulama için;
+Particle cloud        https://build.particle.io
+IFTTT                 https://ifttt.com/
+Google Drive          https://drive.google.com
+platformlarýnda hesabýnýzýn olmasý gerekir.
