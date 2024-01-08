@@ -1,0 +1,35 @@
+Arduino ile park sensörü
+
+Kazandırılması hedeflenen yeterlilikler
+1.	Bir uygulamada kullanılacak FPP ve giriş-çıkış donanımlarının fiziksel bağlantılarını yapar.
+2.	FPP GPIO(genel giriş-çıkış pinleri) program ile kontrol eder.
+3.	Uygulamayı test eder, donanım ve yazılım hatalarını bulur. 
+
+Materyal	•	Bilgisayar
+•	Projeksiyon
+•	“Park sensörü devre şeması ve program kodları.pdf” dosyası
+Yazılım	•	Arduino IDE
+Malzeme	•	Arduino UNO
+•	Buzzer
+•	Ultrasonic mesafe sensörü
+•	Bağlantı ve güç ekipmanları
+
+Yöntem
+İşbirlikli çalışma / Uygulama	Uygulama 1 Park sensörü
+Öğrenciler 2’li gruplara ayırılır. Ultrasonic mesafe sensörü, buzzer ve arduino kullanarak park sensörü yapmak için aşağıdaki işlem basamakları izlenir. Program şeması ve program kodu “Park sensörü devre şeması ve program kodları.pdf” dosyasında yer almaktadır.
+1.	Öğrenciler park sensörü uygulaması yapmak için gerekli olan fiziksel programlama kartı ve giriş çıkış donanımlarını karışık bir halde verilen donanımların içinden seçerler.
+2.	Eğitmen Ultrasonic mesafe sensörü HC-SR04 hakkında detaylı bilgi verir.
+3.	Eğitmen, Buzzer hakkında detaylı bilgi verir.
+4.	Gruplar, Buzzer için 8, HC-RS04 Trig için 7, echo için 6 no’lu pinlerin kullanılacağı fiziksel bağlantıyı oluştururlar.
+ 
+5.	Eğitmen, Arduino IDE’de kütüphane kullanımı hakkında detaylı bilgi verir. 
+6.	Eğitmen, program kodlarının bir kısmını gösterir. Diğer kısmını grupların tamamlamasını ister. 
+7.	Gruplar program kodunu tamamlayarak devreyi test eder, program kodlarında tespit ettikleri hataları düzeltirler.
+
+Değerlendirme
+•	Öğrenciler park sensörü için gerekli donanımları seçebilirler.
+•	Eksik verilen bir programı tamamlayabilirler.
+•	Verilen karmaşık devrelerin fiziksel bağlantılarını yapabilirler.
+•	Fiziksel bağlantılarda oluşan hataları tespit edip düzeltebilirler.
+•	Program kodlarında yer alan hataları tespit edip düzeltebilirler.
+
