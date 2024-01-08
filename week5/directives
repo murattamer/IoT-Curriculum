@@ -1,0 +1,37 @@
+Particle photon kurulumu ve Tinker uygulaması
+
+Kazandırılması hedeflenen yeterlilikler
+1.	Temel ağ donanımlarını açıklar.
+2.	FPP'yi kablolu internete bağlamak için gerekli ayarları yapar.
+3.	FPP'yi kablosuz internete bağlamak için gerekli ayarları yapar.
+4.	Bulut platformu kavramını açıklar.
+5.	Webhook (tetikleme) işlemini tanımlar.
+6.	Bulut platformunu kullanarak fiziksel programlama yapar.
+
+Materyal	•	Bilgisayar
+•	Projeksiyon
+•	"Particle photon" power point sunusu
+Yazılım	•	Power point
+•	Particle Web IDE
+Malzeme	•	Particle photon
+•	Kablo ve bağlantı ekipmanları
+
+Yöntem
+Anlatım / soru cevap	•	"Particle photon" power point sunusu eşliğinde eğitmen, aşağıda yer alan konuları anlatım yöntemi ile aktarır.
+1.	Photon kurulumu
+2.	Tinker uygulamaları
+3.	Particle cloud üzerinden blink uygulaması
+•	Eğitmen öğrencilerden arduino IDE ile web IDE arasındaki farkları açıklamalarını ister. Hangi uygulamanın bulut platformu olduğunu nedenleri ile aktarır.
+Keşfetme / problem çözme	1.	
+İşbirlikli çalışma / Uygulama	Öğrenciler 2’li gruplara ayrılır. 
+•	Gruplar akıllı telefonlarına Particle mobil uygulamasını yüklerler ve sunuda belirtilen yönergelere uygun olarak Tinker uygulamalarını gerçekleştirirler. 
+•	Ardından, Bilgisayar aracılığı ile Web IDE uygulamasını kullanarak photon cihazına blink uygulamasını yüklerler.
+
+
+
+
+Değerlendirme
+•	Her bir grup akıllı telefonu ile photon cihazı üzerindeki LED’i kontrol eder.
+•	Her bir grup Web IDE uygulamasını kullanarak photon cihazına blink uygulamasını yükler.
+
+
