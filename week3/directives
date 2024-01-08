@@ -1,0 +1,76 @@
+Arduino ile programlamaya giriş
+
+Kazandırılması hedeflenen yeterlilikler
+1.	Değişken ve operatörleri kullanarak fiziksel programlama yapar.
+2.	Koşul kullanarak fiziksel programlama yapar.
+3.	Döngü kullanarak fiziksel programlama yapar.
+
+Materyal	•	Bilgisayar
+•	Projeksiyon
+•	"S4A Kurulumu" power point sunusu
+Yazılım	•	Power point
+•	Arduino IDE
+•	S4A
+Malzeme	•	Arduino Uno
+•	LED
+•	Kablo ve bağlantı ekipmanları
+
+Yöntem
+Anlatım / soru cevap	•	"S4A Kurulumu" power point sunusu eşliğinde eğitmen, aşağıda yer alan konuları anlatım yöntemi ile aktarır.
+1.	Blok programlama
+2.	Scratch
+3.	S4A
+İşbirlikli çalışma / Uygulama	Uygulama 1 S4A ve Arduino ile Blink uygulaması
+Öğrenciler 2’li gruplara ayrılır. Her grup arduino kartı üzerinde 13. Pine bağlı olan LED’in 1 sn aralıklarla yanıp sönmesini sağlayan bir uygulamayı aşağıdaki işlem basamaklarına uygun olarak gerçekleştirir.
+1.	Eğitmen öncelikle herhangi bir ipucu vermeden öğrencilerden arduino kartı üzerinde 13. Pine bağlı olan LED’in 1 sn aralıklarla yanıp sönmesini sağlayan bir uygulamayı S4A yazılım geliştirme ortamını kullanarak yapmalarını ister.
+2.	Eğer ipucu vermesi gerekiyorsa programda aşağıdaki blokların kullanılacağını ama sıralamanın öğrenciler tarafından yapılması gerektiğini belirtir.
+ 
+3.	Eğitmen öğrencilerin doğru olarak blokları yerleştirmesini sağlar.
+4.	Eğitmen her bir bloğun işlevini ayrıntılı olarak anlatır. 
+ 
+5.	Eğitmen öğrencilerden LED’in yanıp sönme süresini değiştirmelerini ister.
+ 
+6.	Eğitmen öğrencilerden LED’in sadece 10 kere yanıp sönmesini ister.
+ 
+7.	Eğitmen öğrencilerden bir değişken oluşturmalarını ve LED’in yanıp sönme süresinin değişkenin değerine göre değişmesini ister.
+ 
+
+Uygulama 2 Arduino IDE ile Blink uygulaması
+Öğrenciler 2’li gruplara ayrılır. Her grup arduino kartı üzerinde 13. Pine bağlı olan LED’in 1 sn aralıklarla yanıp sönmesini sağlayan bir uygulamayı aşağıdaki işlem basamaklarına uygun olarak gerçekleştirir. 
+1.	Eğitmen öğrencilerden aşağıdaki tabloda bloklar ile kodları eşleştirmelerini ister.
+ 	
+
+
+2.	Eğitmen setup() fonksiyonu ve pinMode komutunu açıklar.
+3.	Blok kodlama ile metin tabanlı kodlama arasındaki farkları açıklar.
+4.	Eğitmen öğrencilerden arduino IDE’de bir blink programı yazmalarını ister.
+ 
+5.	Eğitmen, öğrencilerden “gecikme” adlı bir değişken oluşturmalarını ve LED’in yanıp sönme süresinin bu değişkene göre ayarlanmasını ister.
+ 
+6.	Eğitmen arduino IDE’de değişken ve operatörleri örnek yaparak anlatır. Öğrencilerden arduino IDE kullanarak LED’in 10 kere yanıp sönmesini sağlayan program yazmalarını ister.
+
+ 
+7.	Eğitmen for döngüsünün neden loop içerisinde yer almadığını açıklar.
+Uygulama 2 Arduino ile koşula bağlı LED yakma
+
+Öğrenciler 2’li gruplara ayrılır. Her grup arduino kartı üzerinde 13. Pine bağlı olan LED’in istenilen koşullara göre durum değiştirmesini sağlayan uygulamayı yaparlar.
+ 
+Yukarıdaki blokları kullanarak aşağıda istenilen uygulamaları yapın
+1. Rastgele sayı 5’ten küçük ise LED yansın diğer durumda sönsün
+2. Rastgele sayı 5 il 7 arasında ise LED yansın diğer durumda sönsün
+
+Eğitmen, uygulamanın ardından Her iki uygulamayı Arduino kodu kullanarak yapmalarını sağlar
+
+
+
+
+Değerlendirme
+•	Her bir grup S4A ile değişken ve operatörleri kullanabilir.
+•	Her bir grup S4A ile döngü kullanabilir.
+•	Her bir grup S4A ile koşul kullanabilir.
+•	Her bir grup S4A ile fiziksel programlama yapabilir.
+•	Her bir grup Arduino IDE ile değişken ve operatörleri kullanabilir.
+•	Her bir grup Arduino IDE ile döngü kullanabilir.
+•	Her bir grup Arduino IDE ile koşul kullanabilir.
+•	Her bir grup Arduino IDE ile fiziksel programlama yapabilir.
+
