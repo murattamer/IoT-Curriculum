@@ -1,0 +1,8 @@
+program kodlarýný ubidotswithphoton.ino dosyasýnda bulabilirsiniz.
+particle web IDE'de ubidots.h kütüphanesini "libraries" kýsmýndan eklemeyi unutmayýn
+
+
+Bu uygulama için;
+Particle cloud        https://build.particle.io
+Ubidots               https://ubidots.com/education/
+platformlarýnda hesabýnýzýn olmasý gerekir.
